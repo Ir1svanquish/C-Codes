@@ -15,5 +15,5 @@ MENU
 10. perfectnum_range: A program used to find out all perfect number in a range.
 11. replace_all.cpp: A program used to replace all the sub-string in a string.
 12. return_nickname_given_lastname.cpp: A program used to give out the nickname of a person in the array.
-13. reverse_string.cpp: A program that explains how sort() works on an array.
-
+13. reverse_string.cpp: A program used to produce the reverse of a string.
+14. selection_sort.cpp: A program that explains how sort() works on an array.
